@@ -645,3 +645,9 @@ There are 10 types of people in this world, those who understand binary and thos
 I follow the advice from corporate for my passwords.  All my passwords are:  `a unique password for each site.`
 
 ---
+
+**Q:** Where do developers hang out while compiling?
+
+**A:** the Progress Bar.
+
+---
